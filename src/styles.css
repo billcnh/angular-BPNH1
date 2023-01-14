@@ -24,11 +24,14 @@ router-outlet + *  {
 /* Text */
 
 h1 {
-  font-size: 32px;
+  font-size: 25px;
 }
 
 h2 {
   font-size: 20px;
+}
+h4,h5 {
+  font-size: 30px;
 }
 
 h1, h2 {
